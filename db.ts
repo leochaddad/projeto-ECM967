@@ -1651,3 +1651,5 @@ const db: Db = {
   comments,
   reactions,
 };
+
+export default db;
