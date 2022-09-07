@@ -1,10 +1,20 @@
 # Projeto ECM967 – Tópicos Avançados em Back End
 
+## Integrantes do grupo
+
 - Leonardo Cury Haddad 18.00442-3
 - Matheus Lopes Vivas 17.04401-4
 - Rodrigo Martins de Carvalho 16.03378-7
 
-## O sistema deve permitir as seguintes consultas (apenas operações do tipo Query):
+## Para rodar o projeto
+
+```bash
+git clone https://github.com/leochaddad/projeto-ECM967.git && cd projeto-ECM967
+yarn install
+yarn start
+```
+
+## Operações
 
 ### Lista completa de usuários, incluindo seus posts, comentários e reações.
 
